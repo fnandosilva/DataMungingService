@@ -11,3 +11,5 @@ It is going to create two folder (Files and ProcessedFiles) on the path "C:\".
 All text files should be pasted on folder Files to be processed. Once, this file is pasted 
 the service will be executed and the file will be moved to folder ProcessedFiles. 
 You must first start the service before pasting a file on the folder named Files.
+To make sure the data munging service is running you must go to the universal path "C:\"
+and see if service created the two folders "Files" and "ProcessedFiles".
