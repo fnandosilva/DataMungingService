@@ -9,4 +9,5 @@ Once, double-clicked on this executable file the service is going to be running 
 It is going to create two folder (Files and ProcessedFiles) in the path "C:\".
 
 All text files should be pasted on folder Files to be processed. Once, this file is pasted 
-the service will be executed and the file will be moved to folder ProcessedFiles.
+the service will be executed and the file will be moved to folder ProcessedFiles. 
+You must first start the service before pasting a file on the folder named Files.
