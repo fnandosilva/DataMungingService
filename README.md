@@ -3,8 +3,8 @@ This service gets data from a text file and writes to a SQL databse table
 
 In the DataMunging we have all scripts used to develop this service.
 
-In the build folder there is a executable file named datamungingwinservice.
-Once, double-clicked on this file the service will be running behind the scenes.
+In this folder there is a executable file named datamungingwinservice.exe.
+Once, double-clicked on this executable file the service is going to be running behind the scenes.
 
 It is going to create two folder (Files and ProcessedFiles) in the path "C:\".
 
